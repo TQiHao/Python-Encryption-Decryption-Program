@@ -29,6 +29,12 @@ This program provides both encryption and decryption functionality:
 ```bash
 python encryption_program.py
 
+Enter a 4 digits integer for encryption: 1234
+==> Encrypted integer is 0189
+
+Enter a 4 digits integer for decryption: 0189  
+==> Decrypted integer is 1234
+
 ## Files
 - `encryption_program.py` - Complete encryption/decryption implementation
 
